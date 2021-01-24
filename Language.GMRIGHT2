@@ -3,7 +3,7 @@ Classname-language{<Gmright2>}true
 Language/gmright2
 Language.string from "gmright2"
 Hello GMRIGHT2 language set argument this is the language true
-Hello "amigo"- set this art-language "gmright2"
+Hello "2go"- set this art-language "gmright2"
 Language "communication_gmright2"
 Set : gmright2
 Language: gmright2
@@ -15,4 +15,9 @@ Is this the true language true
 Light- set write {gmright2.language} set argument
 Set this repolarization language gmright2/>∆language.gmright2
 True.language=gmright2
-S
+git [--version] [--help] [-C <path>] [-c <name>=<value>]
+    [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+    [-p|--paginate|-P|--no-pager] [--no-replace-objects] [--bare]
+    [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+    [--super-prefix=<path>]
+    <command> [<args>]
